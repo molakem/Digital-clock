@@ -1,0 +1,14 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: bisque;
+}
+.container{
+    font-size: 80px;
+    font-weight: 700;
+    font-family: sans-serif;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
